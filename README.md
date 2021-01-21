@@ -1,5 +1,1 @@
-
-<h1 align="center">Algumas informações sobre minha pessoa</h1>
-+ 🛠️ Utilizo e domino **JavaScript**, **HTML-5**, **PHP** e **CSS**
-+ 🗣️ Tenho 14 anos
-+ 🏙️ Moro em Minas Gerais
+https://media.discordapp.net/attachments/761250279257407521/779543733724381205/image0-3.gif
